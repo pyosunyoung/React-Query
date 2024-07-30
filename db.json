@@ -1,9 +1,9 @@
 {
     "posts": [
-      { "id": "1", "title": "html css 강의" },
-      { "id": "1", "title": "자바스크립트 강의" },
-      { "id": "1", "title": "리액트 강의" },
-      { "id": "1", "title": "node.js 강의" }
+      { "id": "1", "title": "html css 강의7" },
+      { "id": "2", "title": "자바스크립트 강의" },
+      { "id": "3", "title": "리액트 강의" },
+      { "id": "4", "title": "node.js 강의" }
     ]
    
   }
